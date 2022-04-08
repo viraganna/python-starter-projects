@@ -60,7 +60,7 @@ def main():
         if got_it:
             print("Ha! Got it in {} guesses!".format(attempt))
         else:
-            print("Something smells in the state of Denmark...")
+            print("...")
     else:
         print("Bye!")
 
