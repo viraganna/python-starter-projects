@@ -1,3 +1,3 @@
 # python-starter-projects
 
-Welcome to my very first repository, it is a huge chaos as you can see. 
+my very first, chaotic repository. here I was trying out git and python and the most basic programming instructions.
